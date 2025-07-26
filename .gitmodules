@@ -1,0 +1,3 @@
+[submodule "containers/base"]
+	path = containers/base
+	url = https://github.com/username29800/alpine-chroot-setup
