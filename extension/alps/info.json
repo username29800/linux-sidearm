@@ -1,0 +1,6 @@
+{
+  "name":"alps",
+  "desc":"custom alpine linux installation from alpine-chroot-setup.",
+  "version":"2025.7a",
+  "files":["packages.csv","defaultpreset","snippet files"]
+}
